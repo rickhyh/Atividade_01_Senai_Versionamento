@@ -43,5 +43,5 @@ O comando **git push -u origin** publica as alterações no repositório remoto.
 
 O comando **git pull** baixa as alterações no repositório remoto.
 
-
+By: Ícaro Carvalho
 
